@@ -1,0 +1,22 @@
+# NetBeans / Ant
+nbproject/private/
+nbbuild/
+build/
+dist/
+nbdist/
+.nb-gradle/
+
+# Java
+*.class
+*.log
+*.jar
+!lib/*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
